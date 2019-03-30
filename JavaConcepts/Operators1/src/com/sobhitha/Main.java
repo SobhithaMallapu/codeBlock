@@ -1,8 +1,10 @@
-package com.Sobhitha;
+package com.sobhitha;
 
 public class Main {
 
     public static void main(String[] args) {
+	// write your code here
+
         int result = 1 + 2;
         System.out.println("1 + 2 = " + result);
 
@@ -54,7 +56,5 @@ public class Main {
         int secondTopScore = 81;
         if (topScore > secondTopScore && topScore < 100)
             System.out.println("Greater than second top score and less then 100");
-
-        // write your code here
     }
 }
